@@ -1,4 +1,4 @@
-ecocoin
+EcoCoin
 =======
 
-The first Ecologic crypto-currency
+The first Ecologic Crypto-Currency.
